@@ -3,6 +3,7 @@
 ## Project Overview
 
 **Project Title**: Sql Sales Retail Project 
+
 **Level**: Beginner  
 **Database**: `sales_retail`
 
